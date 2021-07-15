@@ -1,0 +1,123 @@
+*{
+    max-width: 500px;
+    margin: auto;
+}
+
+header div  {
+    display: inline-block;
+
+}
+#Delicious{
+    font-family: cursive;
+    display: inline-block;
+    margin: 0px;
+
+
+    position:absolute;
+    top:5px;
+    left:160px;
+}
+
+#tbf{
+    position:absolute;
+    top:35px;
+    margin-top: 0cm;
+    font-size: 11px;
+    padding-right: 100px;
+    padding-left: 50px;
+    color: gray;
+}
+
+#div2{
+    position:absolute;
+    top:10px;
+    right:180px;
+ }
+
+#div3{
+    position:absolute;
+   top:10px;
+   right:110px;
+}
+
+#chocop{
+    font-weight: bolder ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#posted{
+    font-size: 11px;
+    color: gray;
+}
+
+#printspan{
+    float: right;
+}
+
+
+p{
+    text-indent: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 11px;
+    
+}
+
+#checkboxMainDiv{
+    background-image:url("img/list-bg.png");
+    height: 200px;
+
+}
+/* 
+#check1{
+    position: absolute;
+    margin-left: 10px;
+} */
+
+.checkdivclass{
+    height: 20px;
+    margin: 15px 20px 10px 15px;
+}
+
+#check2{
+    position: absolute;
+    left: 300px;
+    top: 670px;
+    
+    
+}
+
+label {
+   padding-top: 40px;
+}
+#vanimg{
+    float: left;
+}
+
+#vanname{
+    font-size: 25px;
+}
+#vandesc{
+    font-size: 11px;
+
+}
+
+button{
+    position: absolute;
+    right: 100px;
+    top: 900px;
+    padding: 15px 10px;
+    background-color: rgb(194, 27, 27);
+    color: white;
+}
+
+#lastimg{
+    position: absolute;
+    right: 350px;
+    top: 1000px;
+}
+
+#lastpar{
+    text-align: center;
+    justify-content: center;
+}
